@@ -1,4 +1,4 @@
-# MiniAssignment – NetProbe
+<img width="1128" height="415" alt="image" src="https://github.com/user-attachments/assets/ffc14a00-555b-4448-9b40-dfdb71fcfc64" /># MiniAssignment – NetProbe
 
 ## Overview
 A small cross-platform C++ tool to:
@@ -14,12 +14,8 @@ A small cross-platform C++ tool to:
 
 ---
 
-## Build Instructions
-
-### 🪟 Windows
-1. Open project in Visual Studio
-2. Select **Local Machine (x64-Debug)**
-3. Build → Rebuild Solution
-4. Run:
-   ```powershell
-   .\out\build\x64-Debug\MiniAssignment.exe 127.0.0.1 --ports 22,80,8080
+## Windows Execution
+(assets/img1)
+(assets/img2)
+## Linux Execution
+(assets/img3)
