@@ -1,5 +1,3 @@
-# MiniAssignment – NetProbe
-
 ## Overview
 A small cross-platform C++ tool to:
 - Check remote IP reachability (via ping)
@@ -14,12 +12,8 @@ A small cross-platform C++ tool to:
 
 ---
 
-## Build Instructions
-
-### 🪟 Windows
-1. Open project in Visual Studio
-2. Select **Local Machine (x64-Debug)**
-3. Build → Rebuild Solution
-4. Run:
-   ```powershell
-   .\out\build\x64-Debug\MiniAssignment.exe 127.0.0.1 --ports 22,80,8080
+## Windows Execution
+(assets/img1)
+(assets/img2)
+## Linux Execution
+(assets/img3)
