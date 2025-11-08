@@ -12,8 +12,9 @@ A small cross-platform C++ tool to:
 
 ---
 
-## Windows Execution
-!(assets/img1)
-!(assets/img2)
-## Linux Execution
-!(assets/img3)
+## 🖥️ Windows Execution
+![Windows Execution 1](assets/img1.png)
+![Windows Execution 2](assets/img2.png)
+
+## 🐧 Linux Execution
+![Linux Execution](assets/img3.png)
