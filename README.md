@@ -1,5 +1,3 @@
-<img width="1128" height="415" alt="image" src="https://github.com/user-attachments/assets/ffc14a00-555b-4448-9b40-dfdb71fcfc64" /># MiniAssignment – NetProbe
-
 ## Overview
 A small cross-platform C++ tool to:
 - Check remote IP reachability (via ping)
