@@ -13,7 +13,7 @@ A small cross-platform C++ tool to:
 ---
 
 ## Windows Execution
-(assets/img1)
-(assets/img2)
+!(assets/img1)
+!(assets/img2)
 ## Linux Execution
-(assets/img3)
+!(assets/img3)
